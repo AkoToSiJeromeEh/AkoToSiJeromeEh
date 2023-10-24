@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jerome</h1>
 <h3 align="center">A passionate frontend developer and graphics designer in the Philippines</h3>
-
+<img alt="my-image" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmV1em9jZ3B3bmMzenJlN3lyZjl4b2c0NDM0YjNpYWsyYmJtZzJ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=akotosijeromeeh&label=Profile%20views&color=0e75b6&style=flat" alt="akotosijeromeeh" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akotosijeromeeh" alt="akotosijeromeeh" />
-  </a>
-</p>
+
 
 - 🔭 I’m currently working on **Our Capstone**
 - 🌱 I’m currently learning **Mern Stack | React Native | Pen Test**
@@ -102,5 +98,11 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akotosijeromeeh&show_icons=true&locale=en&layout=compact" alt="akotosijeromeeh" />
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akotosijeromeeh&show_icons=true&locale=en" alt="akotosijeromeeh" />
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akotosijeromeeh" alt="akotosijeromeeh" />
+  </a>
+</p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akotosijeromeeh&" alt="akotosijeromeeh" />
