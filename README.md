@@ -7,7 +7,7 @@
 * 🤝 I’m looking for help with **Scaling Applications and Cloud Deployment**
 * 👨‍💻 Check out my projects on **GitHub and Frontend Mentor**
 * 💬 Ask me about **C#, ASP.NET Core, SQL Server, Entity Framework Core, React, JavaScript, TypeScript, MERN Stack, and REST APIs**
-* 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 How to reach me: **jeeomelalal@gmail.com**
 * ⚡ Fun fact: **I enjoy building projects that solve real-world problems and continuously learning new technologies**
 
 <h3 align="left">Current Focus:</h3>
